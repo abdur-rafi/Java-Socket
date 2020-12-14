@@ -35,4 +35,4 @@ public static void receiveFile(Socket socket,String filePath, String fileName,Ob
             e.printStackTrace();
         }
     }
-}
+
